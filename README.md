@@ -27,6 +27,7 @@ This is a simple 3D portfolio website built using **React.js** for the framework
 │   ├── main.jsx
 │   └── styles.js
 ├── .gitignore
+├── .env.local
 ├── index.html
 ├── package.json
 ├── postcss.config.js
